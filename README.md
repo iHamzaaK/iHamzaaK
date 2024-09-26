@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamza Ahmed Khan
-- 👀 I’m interested in collaborations and learning new skills specially iOS.
-- 🌱 I’m currently learning reative functional programming using Combine framework on iOS
+- 👀 I’m interested in collaborations and learning new skills.
+- 🌱 Love to work on products that bring sustainability and reduce CO2 emissions. Lets make the world a better place.
 - 📫 How to reach me: hamzakhancs15@gmail.com
 
 <!---
